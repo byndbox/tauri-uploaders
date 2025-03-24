@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-03-24T03:44:48.802Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjNGcTE2d1ZlWFpRTWhNekxaTE1VMkpzWlBuMWFoSHhYY25CUnZXTmpCSDVvaFg0ZitTYW4wS0NhdHdvcytJSjBNQzkvRVpyL2VQZ0lKbitsNW40dmNxYzVISUtyelFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyNzg3NTM3CWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjEuMF9hbWQ2NC5BcHBJbWFnZQp6c09SOUo3a0cwZWlNMXlhdGJ6QWVFVU15d1VpMVJSdTJpOGdKUGErMnpDUVRqV2pEWUNqRFlXSWVQWUhvMHhIQ0NFMHBQOXNVZWQzSlVzUnk5RnlDQT09Cg==",
+      "url": "https://github.com/byndbox/sistema-acolhimento/releases/download/app-v0.1.0/Sistema.de.Acolhimento_0.1.0_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjNGcTE2d1ZlWFVoanh3T3pCSURudVZWLzcwSEZJcWJEZWZCeEIzcTJ6UkVVM1N2ZGhpZWVuLytuL0l6WUtzZzhQYnVMUEx6QTArUTQwNVRWMURRMzlxMXYxZEhJOWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyNzg3ODg2CWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjEuMF94NjRfZW4tVVMubXNpCm00WWVnQmV5VnlTdnNFUmE2a3FFMkMyNFZSU0c4U1pwWjhCVEQ4empQQmF1SDFFaTcxbElmbEJ4eWR6OTR4eGJiSXduQWNkMHJtM0MvR3FNbUxZbURRPT0K",
+      "url": "https://github.com/byndbox/sistema-acolhimento/releases/download/app-v0.1.0/Sistema.de.Acolhimento_0.1.0_x64_en-US.msi"
+    }
+  }
+}
