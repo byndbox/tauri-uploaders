@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjNGcTE2d1ZlWGJ1Z1hKMHRWcWtUdW1NRk9MVDluc3hIc0NQaDB2c1NpVG80c2xnZVpzTTdyY3lYUXpaUkoxNTBIMDdCTnlkNG9hbVF1SVVGNHdKaEd0OWRyMDJxSGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjUwMTMxCWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjE2LjBfeDY0X2VuLVVTLm1zaQpNNDlFMHhtQjRYS2lhZDNmZkpBZ2lPM1hPLzJjY2t3UFRVODQ2OHBRaTFBMTRqQ2Raa2NXOXFpK01pVFF5MzF4VkhleVBPZlZSb3c1TWExUVIwOGdCZz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/0.16.0/Sistema.de.Acolhimento_0.16.0_x64_en-US.msi.sig"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/0.16.0-alpha/Sistema.de.Acolhimento_0.16.0_x64-setup.exe.sig"
     }
   }
 }
