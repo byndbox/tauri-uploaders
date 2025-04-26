@@ -1,11 +1,11 @@
 {
   "version": "0.16.0",
-  "notes": "🎉 Boas notícias! A sincronização dos seus dados com a nuvem ficou ainda melhor! 🚀 Agora, a atualização entre o seu dispositivo e o sistema é super rápida e eficiente. ☁️ Desfrute de uma sincronização turbinada e tenha as informações mais recentes sempre à mão, sem demora! 😉 Atualize agora e aproveite! ✨",
-  "pub_date": "2025-04-14T17:02:15.621Z",
+  "notes": "Atualização disponivel.",
+  "pub_date": "2025-04-26T19:12:22.945Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjNGcTE2d1ZlWFdOczF1VmIvc3BFREQvbENST2VqNTdEMUVDSHNabUVBVXRJQldVRVd0NjBRbWV0V3o2VC9tTDVWZ01WcTVTZ3BieVZpa1VPM0Z4WVdaSlhXNXlIcHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjY0MjE2CWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjE2LjBfeDY0X2VuLVVTLm1zaQpubVJCWEpURjYvUm92OUc5NjEwM0hMUlZKKzJuQzNvQmxRQ2FCVUN4ZWdsYXAzbGhKTXVQUzJKSGVGV3Q3TmhUbEo4UkNJMWhKcXJnYWpEelQza01BZz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/0.16.0-alpha/Sistema.de.Acolhimento_0.16.0_x64_en-US.msi.sig"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVHFIaEdkWXdMN2xtZGVDZ3l1KzAxcytsQXYxdlhNWUw0Q2NPNVovYjBsb2hTWmNwMmJITVlhVVlLWmhIbXlnTmxUMUhzNDBaalk3U0gvdVE5dXlyL3ErNFFTTHYrRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1Njk0NzM5CWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjE2LjBfeDY0X2VuLVVTLm1zaQpKNWxXRnIyWUVVTmwwSlB5cUY2QzBrSUR4d0RBT1B0aTViQ2N3Vlk0SVJ6Ty9wVndPK0FhaU0rbG5VUFpJY0hIM0tIY1RPZUI2Wi90azYvK3E4SXpCdz09Cg==",
+      "url": "https://github.com/byndbox/sistema-acolhimento/releases/download/app-v0.16.0/Sistema.de.Acolhimento_0.16.0_x64_en-US.msi"
     }
   }
 }
