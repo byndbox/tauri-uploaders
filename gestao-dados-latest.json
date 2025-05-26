@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1Evelg2WnBkTEo5T29lalJSTXVpdDVlNFk2Q1A1VDdjOWFuTWsyZ1BJajUvOWVXNDVydER5amFKRXl4dlZHUTFDTTd4c3dkazYxMlZXcmFFV1JXV3MxTndMYjYvYmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4Mjc5NTc2CWZpbGU6Z2VzdGFvLWRhZG9zLWRlc2t0b3BfMC4xLjBfeDY0X2VuLVVTLm1zaQp6VUU3MnExbmR3SHJwNzZBcXVhNG8vNVg5N0NHZFR0U0lRQ0JZWUthT2xOQ2YwV05jWVhDRjVOR1BYYjFXbzVlNTRURTBEMWpSUUlPZzJKVDM3cVRCZz09Cg==",
-      "url": "https://github.com/byndbox/gestao-dados-desktop/releases/download/app-v0.1.0/gestao-dados-desktop_0.1.0_x64_en-US.msi"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SGD/gestao-dados-desktop_0.1.0_x64-setup.exe"
     }
   }
 }
