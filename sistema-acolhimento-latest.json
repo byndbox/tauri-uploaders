@@ -1,11 +1,11 @@
 {
   "version": "0.18.0",
   "notes": "Atualização disponivel!",
-  "pub_date": "2025-07-19T18:54:57.693Z",
+  "pub_date": "2025-07-19T19:52:47.028Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVHFIaEdkWXdMN3FzcW0xQ1lZV05KUDZnTE1vM3AweldraXV3eW93TlJXMmR6REhSc29FdTV5a2k2RmRFRXJmVVJmbk1rNkJOclJ6aTFuVHM5U1RUU01mT1BuYndJdkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTUxMjkzCWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjE3LjBfeDY0X2VuLVVTLm1zaQpwZGx0a2tKbXd4ZzIvcGx1WnM5Unc3OXdLZmVvUVNXQWx2dWhxc3FwbU16WmIvWXBQRTQyQkZnZUVhOFBGRnNHVW50eURHRTdqNDgwVFZseHJtK2NDZz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SDA-v0.18.0/Sistema.de.Acolhimento_0.17.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVHFIaEdkWXdMN2g3elpySEl5VGZGb25MbHAyWXJiYUZKaUMyQm1jL01YQ0dXdkVwZVdrcXBJVHpHdHNRVnhzT21rUEt3V3lBVjdpMHZwNFNuT0w5c3ovZ0Zqb0RKSlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTU0NzY0CWZpbGU6U2lzdGVtYSBkZSBBY29saGltZW50b18wLjE4LjBfeDY0X2VuLVVTLm1zaQpKUXJJLzFOZUFCOXFZeitrdUJETHBPSUZMRnZVcnliQVAvemRGWHJ5ZlFRQ2F1Y2Fpa0tacnNQM1FqWGFsSVJSMWdNRWpLRk0xL1J5UThqM1JOWDZEdz09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SDA-v0.18.0/Sistema.de.Acolhimento_0.18.0_x64_en-US.msi"
     }
   }
 }
