@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Atualização disponivel!",
-  "pub_date": "2025-07-28T21:50:36.684Z",
+  "version": "2.6.0",
+  "notes": "Atualização disponível!",
+  "pub_date": "2025-09-16T20:50:54.622Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1Evelg2WnBkTEh3NTFIQVpZVVNsVmVSR0I1T1VoUE8wbUpDa1dPSXA2ZDdTNXJWbVRYSStlVWxEdXdTalg3cW13SHEzM09zU0o2SEF5QkFVZFJyL0xxUzNtbkZNT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzM5NDMzCWZpbGU6Z2VzdGFvLWRhZG9zLWRlc2t0b3BfMC4yLjBfeDY0X2VuLVVTLm1zaQpYSVVWTUNBWUtNZWZJbFFwbVlneS9lclZpOEhOYW5qbjl0V3NxWS80ZjNxb29SOTY2aTcwcVBkYlA2MCtQM1NUQkJYaTR5QkVRY2hkK3ZZaTdra1hCdz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SGD-v0.2.0/gestao-dados-desktop_0.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUovOEhoQ3RzY1VuRE9Kdy9yS1Q0THBYcmUzOTNvY0NNWndubXRlZExWSjlJdUFLcW1rM2o0NFFEQ0hMTnVSRHFxZXgrUFgyQmFlSHBwTC9GaHpobWVZTlJmdGdTeGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDU1ODQ5CWZpbGU6R2VzdMOjbyBkZSBEYWRvc18yLjYuMF94NjRfZW4tVVMubXNpCkFlSEtta2xhRHAzaVZvNUdpUWl0NnhGYVRvRy9vWEc2NFFLd0thWkxxM1RSbnRZczFSRkh6blpTdlJkaGJVeVNFSVRINGlaYUE5OCsrcHpnY2NRd0RRPT0K",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SGD-v2.6.0/Gestao.de.Dados_2.6.0_x64_en-US.msi"
     }
   }
 }
