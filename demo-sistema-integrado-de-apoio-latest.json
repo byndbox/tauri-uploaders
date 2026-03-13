@@ -5,15 +5,15 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSi9PcWNURVhGZ1NIRTBYQnZKZm5MOGFJSTdhZE9KYXpmV3Q2OHpmMlNMRnVrVHFVT0g3ZVA2NFBWTkFBS1U3MVBlODdicDRvenFWU09QdGloeElLbkFuckhFQ2hseVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzcxMjg4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4wLjBfeDY0X2VuLVVTLm1zaQpZYVgxSkczQ0wwbzVsT2RLdVZPWU45UTJaeUdGU21lN1E0VVNBSWppNW5SSmJCUUlEeUdSRDBjdktBSE9KakdtcXMxVlZ3QytIcmdIQmc0ay84VkVEQT09Cg==",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/demo-v1.0.0/Sistema.Integrado.de.Apoio_1.0.0_x64_en-US.msi"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.0.0-demo/Sistema.Integrado.de.Apoio_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSi9PcWNURVhGZ1NIRTBYQnZKZm5MOGFJSTdhZE9KYXpmV3Q2OHpmMlNMRnVrVHFVT0g3ZVA2NFBWTkFBS1U3MVBlODdicDRvenFWU09QdGloeElLbkFuckhFQ2hseVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzcxMjg4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4wLjBfeDY0X2VuLVVTLm1zaQpZYVgxSkczQ0wwbzVsT2RLdVZPWU45UTJaeUdGU21lN1E0VVNBSWppNW5SSmJCUUlEeUdSRDBjdktBSE9KakdtcXMxVlZ3QytIcmdIQmc0ay84VkVEQT09Cg==",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/demo-v1.0.0/Sistema.Integrado.de.Apoio_1.0.0_x64_en-US.msi"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.0.0-demo/Sistema.Integrado.de.Apoio_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSi9PcWNURVhGZ1NNdm16eXA4Yi9mTUYvQW1iY0dDOS8zdXdBUWI5QjAwU05Xdi8rUnFuL2VpTzJRYXNDeng2UWNBNlpCeFV6aG5YRFlRN25NemhxUGNWTkN2K0loOFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzcxMjg4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4wLjBfeDY0LXNldHVwLmV4ZQpYdkUwMjdhSFh6enJOYXB0dGJXSFc4eUpXZzVyRWFkMjZaUkJUU08rSG1yTElFek1aOW4xRHdqZjZULy85RGZPQVVZMWN4ZGZWUHBYbG1RY1JvZGZCdz09Cg==",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/demo-v1.0.0/Sistema.Integrado.de.Apoio_1.0.0_x64-setup.exe"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.0.0-demo/Sistema.Integrado.de.Apoio_1.0.0_x64-setup.exe"
     }
   }
 }
