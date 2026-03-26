@@ -5,15 +5,15 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHB1alNSbWFFTWJuNEVBcWFtUjVaTlU1c0JRYzdqRXdER1VCejZhbENaWmVhNng2TEErdnZheEkyTEJpdGRNOXYvWi9QREZBd2wvWGREYUhLT0RHS1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTY3Njg0CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMl94NjRfZW4tVVMubXNpClpLSXhXVFNlRVB6YlEzeU5vOGpGcEZaeDlJdEdBaVdCekR6OFQ3SlRQK1BaVEpqaWVqMlJHbm5manhjbHpCOXNGeFJPQlFIc2tXNmQyb2pDS2JvZ0NnPT0K",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/app-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64_en-US.msi"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHB1alNSbWFFTWJuNEVBcWFtUjVaTlU1c0JRYzdqRXdER1VCejZhbENaWmVhNng2TEErdnZheEkyTEJpdGRNOXYvWi9QREZBd2wvWGREYUhLT0RHS1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTY3Njg0CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMl94NjRfZW4tVVMubXNpClpLSXhXVFNlRVB6YlEzeU5vOGpGcEZaeDlJdEdBaVdCekR6OFQ3SlRQK1BaVEpqaWVqMlJHbm5manhjbHpCOXNGeFJPQlFIc2tXNmQyb2pDS2JvZ0NnPT0K",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/app-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64_en-US.msi"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGhWbDFlUXNhSExobHNidThBODZzREVYNytnQ0xZVXlkb2VnRHU2UW04b0kwUGllNk5WOUloTmpWYUptVlBEbThVazJUa2JIU3Y4UGlNTDF0L3dLY2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTY3Njg0CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMl94NjQtc2V0dXAuZXhlClhOMlNHSVY1QVlKTnJacjBjaDJOK0ttZTJUaFhJWEdISlRRb1hJWGc4U1ZYZGY0dG95WGRoeW16aDYxSEE2VXJSUUExaVVReEowYjlUYVUrRTlLd0FRPT0K",
-      "url": "https://github.com/byndbox/sistema-acolhimento-desktop/releases/download/app-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64-setup.exe"
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.2/Sistema.de.Multiatendimentos_1.1.2_x64-setup.exe"
     }
   }
 }
