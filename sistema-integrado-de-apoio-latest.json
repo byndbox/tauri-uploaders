@@ -1,19 +1,19 @@
 {
-  "version": "1.1.6",
-  "notes": "Nova atualização!",
-  "pub_date": "2026-04-09T01:25:09.597Z",
+  "version": "1.1.8",
+  "notes": "🎉 Novidades chegando para você!\n\nAgora você pode cadastrar alunos da Educação Infantil no aplicativo. Além disso, a tela de login ficou mais fácil de usar.\n\nAinda, as atualizações do aplicativo estão mais rápidas e automáticas, sem precisar de permissões de administrador no seu computador. E o aplicativo está ainda melhor para usar no seu Mac!",
+  "pub_date": "2026-04-27T23:42:30.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG1GSjhHRzUzN3Y4b2RuVVFMRnc5Ri93aVBEZG01VjVMZDdvUFl5cEN3Ylc2dWNucEV6SnNxL1h5U1EwWDZSMjl0RmlxZmlCcGVRbDE0dzRmTHZ3UlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Njk3OTAzCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuNl94NjRfZW4tVVMubXNpCm00SC80QnBJT0YrT3JnZ1YxWk5BS01KUG16ZjY3WlFQYy9aSEZHSi8xNUZGNVh6LzZEaFV2SnN1eGZuOUMvdUtXcU11OGRQTGZZNllCVmdCbnZGL0RnPT0K",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.6/Sistema.de.Multiatendimentos_1.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHR3RzBCTHI1UE1OTjhzY0FBejJpa2pyOTJPTU1Xem15ZHBvb1FWeE1JVGlFQk9vWHROdmZpSjFxcThzUlNjNkw4RjRVSDQ2VTZHQ29rUjNmWnJ5MHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMjI3CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuOF94NjRfZW4tVVMubXNpCnpKTTUyZ0NKdVRMQkxQYVRWbEVLQmpkbFBQSnlsUVc3M2NNeWNlY05wT0ZxNHkzU0xaUXRlcnd1Tkl3aHZ2ZXh3dGtNSVRYNFRlbHA0ekx5YmQxV0NRPT0K",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.8/Sistema.de.Multiatendimentos_1.1.8_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG1GSjhHRzUzN3Y4b2RuVVFMRnc5Ri93aVBEZG01VjVMZDdvUFl5cEN3Ylc2dWNucEV6SnNxL1h5U1EwWDZSMjl0RmlxZmlCcGVRbDE0dzRmTHZ3UlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Njk3OTAzCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuNl94NjRfZW4tVVMubXNpCm00SC80QnBJT0YrT3JnZ1YxWk5BS01KUG16ZjY3WlFQYy9aSEZHSi8xNUZGNVh6LzZEaFV2SnN1eGZuOUMvdUtXcU11OGRQTGZZNllCVmdCbnZGL0RnPT0K",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.6/Sistema.de.Multiatendimentos_1.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHR3RzBCTHI1UE1OTjhzY0FBejJpa2pyOTJPTU1Xem15ZHBvb1FWeE1JVGlFQk9vWHROdmZpSjFxcThzUlNjNkw4RjRVSDQ2VTZHQ29rUjNmWnJ5MHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMjI3CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuOF94NjRfZW4tVVMubXNpCnpKTTUyZ0NKdVRMQkxQYVRWbEVLQmpkbFBQSnlsUVc3M2NNeWNlY05wT0ZxNHkzU0xaUXRlcnd1Tkl3aHZ2ZXh3dGtNSVRYNFRlbHA0ekx5YmQxV0NRPT0K",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.8/Sistema.de.Multiatendimentos_1.1.8_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG9wTDIwdGZ2SExZSGJQNW95V09WOVdvdi8ydkVjVXdhdVdkQjllTGRrL004LzlQVmFGUUNRMW9ZN1VQQ3pSTEVLcEpyK0N1bWlWQW1sOVFERW1VOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Njk3OTAzCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuNl94NjQtc2V0dXAuZXhlCnVDQzE1L29RVjlkSWpham5XeTlxd1pRWHhjSkVQdkhkTjMrRkY5VmtVZUZHSDdkVEtZYUVsOHlVZmVkeXFMZjVyL0RiN3VDOHlXZUQ2UXdlRmR2S0NnPT0K",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.6/Sistema.de.Multiatendimentos_1.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGdoNVMyVjF3d08zM0NmZWlOdEFaL3p6eHk1a2lBeE1VU28zbTN2WWJBRkVWOURIWWF5R0czN0VjbFlHc05ZTHl5MzFOTDRqeC9WdXk2OHI3bU5vRmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMjI3CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuOF94NjQtc2V0dXAuZXhlCmdaVlpvbDA4d2xkMVRQWjhvRENrK1BjMUt5bHhMUlk1TGFxNkk1KzZjcHcyc1BqRGFCMk9mRnNJbGxNbXZIMHRkL3hSeFpBSmErWWRMcjhhQ2FoOUNRPT0K",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.8/Sistema.de.Multiatendimentos_1.1.8_x64-setup.exe"
     }
   }
 }
