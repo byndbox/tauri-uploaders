@@ -1,23 +1,23 @@
 {
-  "version": "1.1.8",
-  "notes": "Olá, professores!\n\nNessa atualização, adicionamos os anos da Educação Infantil no cadastro dos alunos. Também melhoramos a tela de login para você ter uma experiência ainda mais fácil.\n\nPara quem usa Mac, agora o aplicativo está com uma versão mais completa e roda mais rápido. O sistema de atualização foi aprimorado, facilitando o recebimento de novidades.",
-  "pub_date": "2026-04-27T23:42:31.000Z",
+  "version": "1.1.9",
+  "notes": "Nova atualização disponível!",
+  "pub_date": "2026-05-06T22:16:25.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG4vVWhPR0xYaGVxRFhRTzlwTUhjbDlqVVVzTmlQaWZaOGdyYU5HcXFjS2ZTcW45NGwzcS9DL1F2VkVJNVZHa1JNWTFBVWd2bjg3eVF2b3dpTVFsSVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMzIzCWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjhfeDY0X2VuLVVTLm1zaQpSakNVS2RtemtpZkFFaVZxVmlhdmxKZTJKdEJmblVTUWs1UmxwdmVrVW5vRVV1SHBHWjIvd3RhU1hXQWRDejZCT3J4REZXRkRhb2lSZGFqanJ2OVpDdz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.8-demo/Sistema.Integrado.de.Apoio_1.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHF3b3dCYUt4Z1BwaGFlaFE5c0poeUt3Z3BUN3Jzb2FUanZ6UzFzdzAvM3VycGVGaHpDMXBWblRNS3l3aFIvd1RUR1NaZ0lzUHYvVk1SaFBYNkdtK3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA1NzU2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjlfeDY0X2VuLVVTLm1zaQoxMkFnOXh5b2lvZFd1alc3RS9NMEVRcCtHdmtpOUhQYnliUUVHbU1wWS9SN0l6ZXJsZUsyUmhJNm5PeGIydmIxcmJ3U0FRWVJQYzcwZVBaTm5BS0NBUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.9-demo/Sistema.Integrado.de.Apoio_1.1.9_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG4vVWhPR0xYaGVxRFhRTzlwTUhjbDlqVVVzTmlQaWZaOGdyYU5HcXFjS2ZTcW45NGwzcS9DL1F2VkVJNVZHa1JNWTFBVWd2bjg3eVF2b3dpTVFsSVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMzIzCWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjhfeDY0X2VuLVVTLm1zaQpSakNVS2RtemtpZkFFaVZxVmlhdmxKZTJKdEJmblVTUWs1UmxwdmVrVW5vRVV1SHBHWjIvd3RhU1hXQWRDejZCT3J4REZXRkRhb2lSZGFqanJ2OVpDdz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.8-demo/Sistema.Integrado.de.Apoio_1.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHF3b3dCYUt4Z1BwaGFlaFE5c0poeUt3Z3BUN3Jzb2FUanZ6UzFzdzAvM3VycGVGaHpDMXBWblRNS3l3aFIvd1RUR1NaZ0lzUHYvVk1SaFBYNkdtK3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA1NzU2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjlfeDY0X2VuLVVTLm1zaQoxMkFnOXh5b2lvZFd1alc3RS9NMEVRcCtHdmtpOUhQYnliUUVHbU1wWS9SN0l6ZXJsZUsyUmhJNm5PeGIydmIxcmJ3U0FRWVJQYzcwZVBaTm5BS0NBUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.9-demo/Sistema.Integrado.de.Apoio_1.1.9_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHI1c3dFOE40TWhBdU1pQXFrVy9weWhlM01xT216Q2I1Wis5Ny9OZHhaLzhRSERYeTNMaEV3aVptclRhNUFrWEl1R0dFT0xqb1ArbTI5MUxFMW50ZXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMzMzIzCWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjhfeDY0LXNldHVwLmV4ZQpYLzJuQjNycllRSm5mVTJLRUhRUzN3TnNBZkZiVFBlTWVJUjJWMXFwdWpSckxaSzIyK25FVFNHTmxFQXArSlY2aUVqTzRzY2dVa3FIRWlvcVYreUVEQT09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.8-demo/Sistema.Integrado.de.Apoio_1.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVG1NMktWZEhhbVZWMWhCcFNrSm5DQkhmTVA2TTRzZzF1MUtuUlJYb25RVUhqQm1LOHRvRDFuM1IrOFo5M3BRT1FhLzdXTFphMkZBcFNMeDhVaWs3TlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA1NzU2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjlfeDY0LXNldHVwLmV4ZQptME5DZnlEMm90MnJUN3NPUWpTc2NoNFdTRnpwS25qZXh2cUNabmFreTVZbU9md0U2WFg1dVBuU2NMWnpyaytPcm5kQzlHY1BRVGZ2VDR1RDgvaStCUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.9-demo/Sistema.Integrado.de.Apoio_1.1.9_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHJsMlIyZldHRThiRjk1MkVtakluUUFLMHR6TWVqSHRzSG80OW5YbDU5dzJaVlBvSlkrbkJYTkpvNlNaUWIwM0cvR0haanBsNkxYVnhCRzFybUZwM0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMyNzI1CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW8uYXBwLnRhci5negovVW1waTQxSmtLWnpKTkI0UWpaQ293N2U0ai92ZWNLdzM3cEhVUGxFN1hpblU1VEZQN29jandLWllmeE5ncHdhdVFKT1lqVW1DOG5md3lHSDMzTWRCUT09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.8-demo/Sistema.Integrado.de.Apoio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGwzL2M4Rzdmb29JeHVSVnBpRWUzbWd6UnF5ZnBUU2RvM2M3VDBhUTZRclRJMngwNzdyMzRpRERjdmNrVWFHWUFZTXZrRTkyZXdqOENYK2pxc1dFeWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA1Mzk2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW8uYXBwLnRhci5negpsakFBcGMydStBS1M3aVdzRENOak9KTjR0QlZ3QXZjNFlCR2JZUXBma05qemQ4Z21nSUdpOFZaTkY1bC9RWkJtWEJzS2pKYzZoKzlXREdUMWlKMENBUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.9-demo/Sistema.Integrado.de.Apoio_universal.app.tar.gz"
     }
   }
 }
