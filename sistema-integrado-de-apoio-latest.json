@@ -1,19 +1,19 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "notes": "Nova atualização disponível!",
-  "pub_date": "2026-05-18T23:27:48.000Z",
+  "pub_date": "2026-05-18T23:55:46.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHZHVnVYRzI5Y1lKZWdIY3l4R1gxVUxGZDMyMDNoUVR1NURrY0dlNUpaTFRZN3FFTlFtb211Y1pZMzB5VzZsbEg3Q3hwY2ZjeERmanVNUVExTVRCbmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ2ODQ1CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTFfeDY0LXNldHVwLmV4ZQphNS96UGVBMG9qOG9DTlViNTZPU0piZFpvV3NZdnZqMk5yKzB4dStqS3B5cHgra3YxdC9aS1RxeGJhemVDdkNpOVl4NkNSV0NUTnZteGpnVDVrcWlDUT09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.11/Sistema.de.Multiatendimentos_1.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGx4WUFrNHEreHMrbnpRMjk4NVF0enRLYzU1YnhSdVJEZGk4OFhmWFl2OEliQWxEYXc2VFl2L0hjTlBGNWxFYTBObHJTN2hMUzQ1dURHb3pzeEpYMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ4NTIxCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTJfeDY0LXNldHVwLmV4ZQpNTkdpVXZJR2d3bjBiMWRFdmJXVEtldjQ2U1hvYkRNTDc4MUEvNFU0SXBYUlVLNE1Rbk9hTWFnem1aMUFESUtUR2ROSG5VRzhCOXM3cUV0bTNNamxBZz09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.12/Sistema.de.Multiatendimentos_1.1.12_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGdnaUJpUy9jTjZmK0ZvTlMrV2NpV3hQd0o3UXlTZkc3L0pUVVA4Ulg1anZ2MUNDNHd0ZzZMd2pDajJwemFDNGQrSTg4cERxOWM1ZGppcThDK1ZQV0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ2ODQ1CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTFfeDY0X2VuLVVTLm1zaQpVUjdON2YwQ2Q3bXdsMm1ZekdrWUc3M004d1I2aTFNNU5SU0tpVWxrZzZyY1BYZW5hYkU5bm43bTlJeWlvRDR2Y0xadER4TElhRUtqbWVFd2o3eDFEZz09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.11/Sistema.de.Multiatendimentos_1.1.11_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHNIYUQ5MHNDd0IzcU40M211VWNEVnZ4OFV1eTNycDZhWk9BVStnSEZwQUNNSzZHUFplK0FXakhhY2tsdERQZWtaTHkzSjVkQTY5ZUNuTE42N0dvbndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ4NTIxCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTJfeDY0X2VuLVVTLm1zaQpjS3E1bGRDWHRUd0hHTGZEQ3crUDA1cWJldFEwWS9yM09YUGpEclpoQTFDYXhWL2xmVmVQNmlzZkdJWTE2Zk93aGJ4ZlkzQzZ6eS9YRDFydU94TytEUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.12/Sistema.de.Multiatendimentos_1.1.12_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHZHVnVYRzI5Y1lKZWdIY3l4R1gxVUxGZDMyMDNoUVR1NURrY0dlNUpaTFRZN3FFTlFtb211Y1pZMzB5VzZsbEg3Q3hwY2ZjeERmanVNUVExTVRCbmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ2ODQ1CWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTFfeDY0LXNldHVwLmV4ZQphNS96UGVBMG9qOG9DTlViNTZPU0piZFpvV3NZdnZqMk5yKzB4dStqS3B5cHgra3YxdC9aS1RxeGJhemVDdkNpOVl4NkNSV0NUTnZteGpnVDVrcWlDUT09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.11/Sistema.de.Multiatendimentos_1.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVGx4WUFrNHEreHMrbnpRMjk4NVF0enRLYzU1YnhSdVJEZGk4OFhmWFl2OEliQWxEYXc2VFl2L0hjTlBGNWxFYTBObHJTN2hMUzQ1dURHb3pzeEpYMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ4NTIxCWZpbGU6U2lzdGVtYSBkZSBNdWx0aWF0ZW5kaW1lbnRvc18xLjEuMTJfeDY0LXNldHVwLmV4ZQpNTkdpVXZJR2d3bjBiMWRFdmJXVEtldjQ2U1hvYkRNTDc4MUEvNFU0SXBYUlVLNE1Rbk9hTWFnem1aMUFESUtUR2ROSG5VRzhCOXM3cUV0bTNNamxBZz09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SMA-v1.1.12/Sistema.de.Multiatendimentos_1.1.12_x64-setup.exe"
     }
   }
 }
