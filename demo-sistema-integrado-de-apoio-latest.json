@@ -1,23 +1,23 @@
 {
-  "version": "1.1.13",
+  "version": "1.2.0",
   "notes": "Nova atualização disponível!",
-  "pub_date": "2026-05-24T20:44:35.000Z",
+  "pub_date": "2026-06-09T00:23:21.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHZSL0dMbHByMjdWbHlDd0hQdWNjVmJQRGE5Qk5vdE1UYUR0KzBha3NJdDZ3RlRvYXlCY3RwbjVjMHBuSnBCRHZzTUVSWXBURXBuQXl0ZFVwVlNWVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU1NDQ4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjEzX3g2NC1zZXR1cC5leGUKWFlVemx1NnNOcFB1dExaeC9XRVQyZVJUTjNmWERUSkg4dFNOcW1mOTRnZytuZnB0emhOUE5mb2dFVnl6djh4Zi9aemQvdnBpazlaRjhza29oOFJRQXc9PQo=",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.13-demo/Sistema.Integrado.de.Apoio_1.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHR6STRKREFsVzR0YkRrelNvZ1RtWGpPdEI2ZC9xZ3FCeTl2azVHb2hva1YrY0VuU1dQQWY5b0czT0c1Nll0TDNoUmNKdElPdlJGMnp1VE9jTjZuU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY0NTc2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4yLjBfeDY0LXNldHVwLmV4ZQp5U3YzU0s5NktzeGJhY0lVRzE2ajBlRTdtem5HU2VrazRYMEFHYS9RRUZHVmFRZXZsN3FXUlNZb2F3UlZHNDdXS2VHbDJmRXV1di9oSFVUcit1OVJEZz09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.2.0-demo/Sistema.Integrado.de.Apoio_1.2.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHBzNllsZk1ZZkM4akZiWVB1R1NKRTR0VjVjTE1Pbkxac2I1aEFkdzVRQTFZNkZNSi8yL1VkdjJ5amlUNFpkV2VJaGtvWEdWbmJwMXZTSUlyMXBCK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU1NDQ4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjEzX3g2NF9lbi1VUy5tc2kKYVBuREdIOXRaZmN2N3dndDZZd3R1Wk5URFJ0Q3hIczQzVWVIWUJxaTFmVkNDQUtBamcxbVpISlJwUUZPeFNlRUFueHVTc0RkamFPSStHTjQwd2IvQ1E9PQo=",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.13-demo/Sistema.Integrado.de.Apoio_1.1.13_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHJiWm95S1Q5V21qVGVTTDhrQSttdzUvU0dJRUFhQXVDVERxVHFyNnVGZWY5VDBidi9yQkNWQVFrREV1bmNXUDIway8yNGZnU3F6NDVnVzJma0pzSlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY0NTc2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4yLjBfeDY0X2VuLVVTLm1zaQpweVE4aFpxc1RtUmE2dlBMcjRPVEsyRS9YVFEzY0c0YzR4ZENpcGd6Tm9QQlBYN2t5SHdGby9RNFM2RVhqSDVaSlMrR0pETG8xbnRyMHkxcWozajVEUT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.2.0-demo/Sistema.Integrado.de.Apoio_1.2.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHZSL0dMbHByMjdWbHlDd0hQdWNjVmJQRGE5Qk5vdE1UYUR0KzBha3NJdDZ3RlRvYXlCY3RwbjVjMHBuSnBCRHZzTUVSWXBURXBuQXl0ZFVwVlNWVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU1NDQ4CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4xLjEzX3g2NC1zZXR1cC5leGUKWFlVemx1NnNOcFB1dExaeC9XRVQyZVJUTjNmWERUSkg4dFNOcW1mOTRnZytuZnB0emhOUE5mb2dFVnl6djh4Zi9aemQvdnBpazlaRjhza29oOFJRQXc9PQo=",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.13-demo/Sistema.Integrado.de.Apoio_1.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHR6STRKREFsVzR0YkRrelNvZ1RtWGpPdEI2ZC9xZ3FCeTl2azVHb2hva1YrY0VuU1dQQWY5b0czT0c1Nll0TDNoUmNKdElPdlJGMnp1VE9jTjZuU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY0NTc2CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW9fMS4yLjBfeDY0LXNldHVwLmV4ZQp5U3YzU0s5NktzeGJhY0lVRzE2ajBlRTdtem5HU2VrazRYMEFHYS9RRUZHVmFRZXZsN3FXUlNZb2F3UlZHNDdXS2VHbDJmRXV1di9oSFVUcit1OVJEZz09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.2.0-demo/Sistema.Integrado.de.Apoio_1.2.0_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHNTbEdBbUlyNVNXenNwaDc0ajQxdUNaenFxQ2taNHVpSndJQnFhczFLaUtudDg3UnJRSVltNkNmcTY2SU1KSkVJNVQ2dFN0OTlLamxMV0RBKy9FbkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU0ODAwCWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW8uYXBwLnRhci5negozdmdqOVRMWG9kN3JiMjllVngzaEJ1a1BYalpYakVqdE4zTnJ0UGl6NTBIdUlITHhzU0FqUHR6RWtKYVZKVjVoeFp1bnkwcUtueUd6c0NNWGNlVDNEUT09Cg==",
-      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.1.13-demo/Sistema.Integrado.de.Apoio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeTlhN3JpdUFYVHM0MjNsRFZqTS9veWF6clVrQzlzeTB1UW5nVHlOczBJay8zMTd5ZDB2anBxMTRpMlVDR2RoWDZybW43NS9jRlZzWUpCRkorTGJkWUpDbEZ5S0EwclFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY0MDM0CWZpbGU6U2lzdGVtYSBJbnRlZ3JhZG8gZGUgQXBvaW8uYXBwLnRhci5negpydDJVamNuTnNmQXBzYUxmdWhYU0NjdldiNzU2Q2prblU4RkZRQjNCei9JUldxNEExN3RndGRBalRLTmErK0xvU0ZPRWd2RzhiZ1dsNEpaNmhaR2ZCQT09Cg==",
+      "url": "https://github.com/byndbox/tauri-uploaders/releases/download/SIA-v1.2.0-demo/Sistema.Integrado.de.Apoio_universal.app.tar.gz"
     }
   }
 }
